@@ -37,15 +37,15 @@ reset = () => {
 render() {
   return(
     <div className="App">
-      <div className="flex-container">
+      <div className="container">
         <p>Don't mess up the Count:</p>
         <h4>{this.state.count}</h4>
       </div>
-      <div className="flex-container-two">
+      <div className="container-two">
         <Plus countUp={this.countUp} />
         <Minus countDown={this.countDown} />
       </div>
-      <div className="flex-container-three">
+      <div className="container-three">
         <InputNum inputNum={this.inputNum} />
         <Reset reset={this.reset} />
       </div>

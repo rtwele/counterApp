@@ -15,7 +15,7 @@ code {
     monospace;
 }
 
-.flex-container {
+.container {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -23,7 +23,7 @@ code {
   height: 20%;
 }
 
-.flex-container-two {
+.container-two {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -31,7 +31,7 @@ code {
   padding-bottom: 50px;
 }
 
-.flex-container-three {
+.container-three {
   display: flex;
   flex-direction: column;
   align-items: center;
