@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/counterApp/static/css/main.8ab78fb9.chunk.css",
-    "main.js": "/counterApp/static/js/main.140d8528.chunk.js",
-    "main.js.map": "/counterApp/static/js/main.140d8528.chunk.js.map",
+    "main.css": "/counterApp/static/css/main.abc9a933.chunk.css",
+    "main.js": "/counterApp/static/js/main.fff0cf83.chunk.js",
+    "main.js.map": "/counterApp/static/js/main.fff0cf83.chunk.js.map",
     "runtime-main.js": "/counterApp/static/js/runtime-main.4e792a89.js",
     "runtime-main.js.map": "/counterApp/static/js/runtime-main.4e792a89.js.map",
     "static/js/2.f37d545e.chunk.js": "/counterApp/static/js/2.f37d545e.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.9254ee97.chunk.js": "/counterApp/static/js/3.9254ee97.chunk.js",
     "static/js/3.9254ee97.chunk.js.map": "/counterApp/static/js/3.9254ee97.chunk.js.map",
     "index.html": "/counterApp/index.html",
-    "static/css/main.8ab78fb9.chunk.css.map": "/counterApp/static/css/main.8ab78fb9.chunk.css.map",
+    "static/css/main.abc9a933.chunk.css.map": "/counterApp/static/css/main.abc9a933.chunk.css.map",
     "static/js/2.f37d545e.chunk.js.LICENSE.txt": "/counterApp/static/js/2.f37d545e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/counterApp/static/media/counters.865303c0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4e792a89.js",
     "static/js/2.f37d545e.chunk.js",
-    "static/css/main.8ab78fb9.chunk.css",
-    "static/js/main.140d8528.chunk.js"
+    "static/css/main.abc9a933.chunk.css",
+    "static/js/main.fff0cf83.chunk.js"
   ]
 }
